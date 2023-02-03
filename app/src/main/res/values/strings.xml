@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name_surname">MagdanovMaxotovSerik</string>
+    <string name="role">Learning Android Development</string>
+    <string name="phone_number">+77711328566</string>
+    <string name="email_address">azik80334@gmail.com</string>
+    <string name="share_text">azaagzaib@android.com</string>
+</resources>
